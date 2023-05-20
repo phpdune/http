@@ -1,6 +1,6 @@
 {
    "name":"dune/http",
-   "description":"Template Engine for PHP - Dune framework component",
+   "description":"Http package for PHP, dune framework component",
    "type":"library",
    "license":"MIT",
    "support":{
